@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.da2cdd63.css",
-    "main.js": "/static/js/main.7b8bbd94.js",
+    "main.js": "/static/js/main.926c487e.js",
     "static/media/code.png": "/static/media/code.c0846bb73936e0dcbec2.png",
     "static/media/se.jpg": "/static/media/se.ecf1da72919ce9b114f9.jpg",
     "static/media/edu.jpg": "/static/media/edu.12a2c9e6522c3c259d23.jpg",
     "static/media/instagram.png": "/static/media/instagram.4a85fa308a481f4ce479.png",
-    "static/media/CodeChef.webp": "/static/media/CodeChef.a71ed29437a294506d14.webp",
     "static/media/nodejs.svg": "/static/media/nodejs.ce9d132919889be95e8deb094105e880.svg",
     "static/media/css.svg": "/static/media/css.1f30572567ede459308647a363d3b036.svg",
     "index.html": "/index.html",
@@ -18,10 +17,10 @@
     "static/media/github.svg": "/static/media/github.b92a4d73a35c58a3cece1abc5c713a77.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.2693e28d9c497748b5d04b9979a8977a.svg",
     "main.da2cdd63.css.map": "/static/css/main.da2cdd63.css.map",
-    "main.7b8bbd94.js.map": "/static/js/main.7b8bbd94.js.map"
+    "main.926c487e.js.map": "/static/js/main.926c487e.js.map"
   },
   "entrypoints": [
     "static/css/main.da2cdd63.css",
-    "static/js/main.7b8bbd94.js"
+    "static/js/main.926c487e.js"
   ]
 }
