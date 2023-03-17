@@ -1,0 +1,23 @@
+[
+    {
+        "yar": "2020-24",
+        "as_a": "BARAK VALLEY ENGINEERING COLLEGE",
+        "cmpny": "BTECH CSE",
+        
+        "dml_desc": "9.18 CGPA"
+    },
+    {
+        "yar": "2020",
+        "as_a": "BHATTADEV UNIVERSITY",
+        "cmpny": "HIGHER SECONDARY",
+        
+        "dml_desc": "72.80%"
+    },
+    {
+        "yar": "2018",
+        "as_a": "JANATA HIGH SCHOOL,DUMURIA",
+        "cmpny": "HIGH SCHOOL LEAVING CERTIFICATE",
+        
+        "dml_desc": "87.67%"
+    }
+]

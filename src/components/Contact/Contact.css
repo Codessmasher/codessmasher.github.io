@@ -1,0 +1,11 @@
+.frm{
+    grid-template-columns: 1fr;
+    place-items: center;
+    background: #0e82e0;
+}
+input,textarea{
+    padding: 1rem;
+    outline: invert;
+    /* background: #38db22; */
+    /* color: #fcfbfb; */
+}

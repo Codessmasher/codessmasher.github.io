@@ -1,0 +1,9 @@
+@media screen and (max-width:768px) {
+    .timeln{
+        flex-direction: column;
+    }
+    .hide_img{
+        display: none;
+    }
+    
+}

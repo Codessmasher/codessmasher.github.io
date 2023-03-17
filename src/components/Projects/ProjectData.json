@@ -1,0 +1,29 @@
+[
+    {
+        "p_name":"BookMyPG",
+        "p_dt":"November,2022",
+        "p_desc":"It is simply a PG booking website built using Bootstrap,PHP,MySQL",
+        "see":"http://bookmypg.lovestoblog.com/",
+        "source":"https://github.com/Codessmasher/BookMyPG",
+        "bgcolor":"orange"
+
+    },
+    {
+        "p_name":"MyToDo",
+        "p_dt":"September,2022",
+        "p_desc":"It is simply a Diary of oneself for writing their important moments built using Bootstrap,PHP,MySQL",
+        "see":"https://goodimages.infinityfreeapp.com/",
+        "source":"https://github.com/Codessmasher/MyToDo",
+        "bgcolor":"blue"
+    },
+    {
+        "p_name":"Portfolio",
+        "p_dt":"February,2023",
+        "p_desc":"My Portfolio website built using React,firebase,fetch API",
+        "see":"https://portfolio-codessmasher.vercel.app",
+        "source":"https://github.com/Codessmasher/portfolio",
+        "bgcolor":"green"
+    }
+    
+   
+]

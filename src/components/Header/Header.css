@@ -1,0 +1,36 @@
+.nav{
+    background: rgb(191, 214, 214);
+    color: black;
+    /* border-radius: 0 0 12px 15px; */
+}
+a{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: #000;
+    filter: blur(0.9);
+}
+
+ul{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#show{
+    display:none;
+    font-size: xx-large;
+}
+
+@media screen and (max-width:700px){
+    .nav{
+        height: 9vh;
+    }
+    .ul{
+        display: none;
+    }
+    #show{
+    display:inline-block;
+    font-size: xx-large;
+    margin-right: 15px;
+    cursor: pointer;
+}
+}
