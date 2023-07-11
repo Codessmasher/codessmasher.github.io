@@ -9,6 +9,15 @@
 
     },
     {
+        "p_name":"EPlacement",
+        "p_dt":"May,2022",
+        "p_desc":"Developed Eplacement, a comprehensive placement management website for our college, aimed at streamlining the placement process",
+        "see":"https://bvecplacement.great-site.net/",
+        "source":"https://github.com/MiniProjectTeam12/EPlacement",
+        "bgcolor":"orange"
+
+    },
+    {
         "p_name":"MyToDo",
         "p_dt":"September,2022",
         "p_desc":"It is simply a Diary of oneself for writing their important moments built using Bootstrap,PHP,MySQL",
