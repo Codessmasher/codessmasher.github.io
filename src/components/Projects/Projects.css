@@ -1,7 +1,5 @@
 .each_prjct{
-    background: #0886cf;
-    min-width: 350px;
-    min-width: 300px;
+    background: #0886cf; 
     box-sizing: border-box;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
