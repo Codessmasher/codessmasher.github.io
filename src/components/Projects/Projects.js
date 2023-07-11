@@ -8,7 +8,7 @@ export default function Projects() {
     const [Proj, setProj] = useState([]);
     const [load, setload] = useState(null);
     useEffect(() => {
-        fetch("./ProjectData.json")
+        fetch("https://codessmasher.github.io/projectdetails/ProjectData.json")
             .then(response => response.json())
             .then(response => {
                 setProj(response);
