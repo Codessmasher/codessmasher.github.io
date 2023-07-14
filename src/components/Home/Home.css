@@ -10,12 +10,21 @@
 
 /* tech skills */
 
-#techonlogies ul li {
+#technologies ul  { 
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    place-items: center;
+    justify-content: center;
+    height: auto;
+    gap: 7%;
+}
+#technologies ul li {
     list-style: none;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin: 5px;
 }
 
 .skills img {
@@ -25,6 +34,9 @@
     #se{
        width: 20vw;
        height: 20vw;
+    }
+    #technologies ul{
+        grid-template-columns: repeat(3,1fr);
     }
    
 }
