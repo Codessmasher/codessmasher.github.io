@@ -6,7 +6,10 @@ import javascript from "../../images/javascript.svg"
 import mongodb from "../../images/mongodb.svg"
 import express from "../../images/express.svg"
 import react from "../../images/react.svg"
-import nodejs from "../../images/nodejs.svg"
+import nodejs from "../../images/nodejs.svg" 
+import php from "../../images/php.png"
+import mysql from "../../images/mysql.png"
+
 import se from "../../images/se.jpg"
 // css imported
 import "../Common.css"
@@ -25,7 +28,7 @@ function Home() {
         <img src={se} alt="se" id="se"/>
       </div>
 
-      <div id="techonlogies"  className="m_stndrd p_stndrd box_shdow ">
+      <div id="technologies"  className="m_stndrd p_stndrd box_shdow ">
         <h3 style={{color:"green"}} className="txt_center p_stndrd">TECHNOLOGIES THOSE I USE FOR DEVELOPMENT</h3>
         <ul className="skills flex_arnd m_stndrd">
           <li><img src={html} alt="html" />HTML</li>
@@ -35,6 +38,8 @@ function Home() {
           <li><img src={express} alt="express" />EXPRESS</li>
           <li><img src={react} alt="react" />REACT</li>
           <li><img src={nodejs} alt="nodejs" />NODEJS</li>
+          <li><img src={php} alt="php" />PHP</li>
+          <li><img src={mysql} alt="mysql" />MYSQL</li>
         </ul>
       </div>
 
