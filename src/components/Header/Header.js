@@ -4,6 +4,7 @@ import About from '../About/About'
 import Contact from '../Contact/Contact'
 import Project from '../Projects/Projects'
 import Resume from '../Resume/Resume'
+import Blog from '../Blog/Blog'
 
 // css
 import "../Common.css"
@@ -21,6 +22,7 @@ function Header() {
           <Link to="/About">About</Link>
           <Link to="/Contact">Contact</Link>
           <Link to="/Resume">Resume</Link>
+          <Link to="/Blog">Blog</Link>
         </div>
         <Routes>
           <Route path='/' element={<Home />}></Route>
@@ -28,6 +30,7 @@ function Header() {
           <Route path='/About' element={<About />}></Route>
           <Route path='/Contact' element={<Contact />}></Route>
           <Route path='/Resume' element={<Resume />}></Route>
+          <Route path='/Blog' element={<Blog />}></Route>
         </Routes>
       </Router>
 
