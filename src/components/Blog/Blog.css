@@ -1,0 +1,26 @@
+.Blogs{
+    /* background: #0886cf;  */
+    box-sizing: border-box;
+    display: grid; 
+    grid-template-rows: 1fr 1fr 1fr;  
+    margin: 10px;
+    color: aliceblue; 
+}
+.Blog_box {
+    border: 1px solid blue;
+    padding: 1.5rem;
+    margin: 1rem; 
+}
+.Blog_box h2{
+    color: rgb(214, 16, 171);
+}
+.Blog_box p{
+    color: #000;
+} 
+@media screen and (max-width:768px) {
+     .prjc{
+        display: flex;
+        flex-direction: column;
+     }
+    
+}
