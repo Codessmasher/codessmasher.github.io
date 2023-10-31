@@ -9,6 +9,7 @@ import react from "../../images/react.svg"
 import nodejs from "../../images/nodejs.svg" 
 import php from "../../images/php.png"
 import mysql from "../../images/mysql.png"
+import bootstrap from "../../images/bootstrap.webp"
 
 import se from "../../images/se.jpg"
 // css imported
@@ -38,6 +39,7 @@ function Home() {
           <li><img src={express} alt="express" />EXPRESS</li>
           <li><img src={react} alt="react" />REACT</li>
           <li><img src={nodejs} alt="nodejs" />NODEJS</li>
+          <li><img src={bootstrap} alt="bootstrap" />BOOTSTRAP</li>
           <li><img src={php} alt="php" />PHP</li>
           <li><img src={mysql} alt="mysql" />MYSQL</li>
         </ul>
