@@ -24,7 +24,7 @@ function Home() {
       <div id="intro" className="m_stndrd p_stndrd box_shdow flex_arnd">
         <div id="me_box">
           <h2 id="name" style={{color:"Pink"}}>DEEPJYOTI DAS</h2>
-          <p id="detls">A HIGHLY PASSIONATE FULL-STACK WEB DEVELOPER USING MERN STACK,<br /> WITH HAVING GOOD GRASP OVER DSA AND COMPETETIVE CODING</p>
+          <p id="detls">A HIGHLY PASSIONATE FULL-STACK WEB DEVELOPER USING MERN STACK,<br /> WITH HAVING GOOD GRASP OVER DSA AND CS FUNDAMENTALS</p>
         </div>
         <img src={se} alt="se" id="se"/>
       </div>
