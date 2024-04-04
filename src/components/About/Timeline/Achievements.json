@@ -9,13 +9,27 @@
     {
         "yar":"👨‍💻",
         "as_a": "DSA Questions",
-        "cmpny": "630+ solved Leetcode & GFG combined",
+        "cmpny": "800+ solved Leetcode & GFG combined",
+        
+        "dml_desc": ""
+    },
+    {
+        "yar":"⭐",
+        "as_a": "Rank-4 in CP",
+        "cmpny": "Got 4th Rank in College Competetive Programming Contest",
+        
+        "dml_desc": ""
+    }, 
+    {
+        "yar":"👨‍💻",
+        "as_a": "Leetcode Streak",
+        "cmpny": "Maintaining of 500+ days Leetcode Streak",
         
         "dml_desc": ""
     },
     {
         "yar":" 👨",
-        "as_a": "VICE-PRESIDENT OF COLLEGE CODE CLUB",
+        "as_a": "VICE-PRESIDENT Of College CODING CLUB",
         "cmpny": "Organised various events to improve college coding culture",
         
         "dml_desc": ""
