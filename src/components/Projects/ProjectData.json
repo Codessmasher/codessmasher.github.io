@@ -1,5 +1,13 @@
 [
     {
+    "p_name": "Voting WebApp",
+    "p_dt": "March,2024",
+    "p_desc": "Nextjs Voting Management WebApp with Nodejs API",
+    "see": "https://voting-wheat-six.vercel.app/",
+    "source": "https://github.com/Codessmasher/votenextjs",
+    "bgcolor": "black"
+  },
+    {
         "p_name":"BookMyPG",
         "p_dt":"November,2022",
         "p_desc":"It is simply a PG booking website built using Bootstrap,PHP,MySQL",
@@ -14,16 +22,24 @@
         "p_desc":"Developed Eplacement, a comprehensive placement management website for our college, aimed at streamlining the placement process",
         "see":"https://bvecplacement.great-site.net/",
         "source":"https://github.com/MiniProjectTeam12/EPlacement",
-        "bgcolor":"orange"
+        "bgcolor":"violet"
 
     },
     {
-        "p_name":"MyToDo",
-        "p_dt":"September,2022",
-        "p_desc":"It is simply a Diary of oneself for writing their important moments built using Bootstrap,PHP,MySQL",
-        "see":"https://goodimages.infinityfreeapp.com/",
-        "source":"https://github.com/Codessmasher/MyToDo",
+        "p_name":"Car Rental",
+        "p_dt":"March,2024",
+        "p_desc":"It is a Car renting website built using Bootstrap, PHP, MySQL",
+        "see":"http://carbaba.free.nf/cars.php",
+        "source":"https://github.com/Codessmasher/car_rental",
         "bgcolor":"blue"
+    },
+    {
+        "p_name":"BlockShield",
+        "p_dt":"October,2023",
+        "p_desc":"It is a chrome extension for youtube ad closing",
+        "see":"https://voting-wheat-six.vercel.app/",
+        "source":"https://github.com/Codessmasher/votenextjs",
+        "bgcolor":"red"
     },
     {
         "p_name":"Portfolio",
@@ -32,7 +48,30 @@
         "see":"https://portfolio-codessmasher.vercel.app",
         "source":"https://github.com/Codessmasher/portfolio",
         "bgcolor":"green"
+    },
+    {
+        "p_name":"Search any Image",
+        "p_dt":"September,2023",
+        "p_desc":"I have used Unsplash API to fetch any search-related image with react",
+        "see":"https://trikl-ivory.vercel.app/",
+        "source":"https://github.com/Codessmasher/TRIKL",
+        "bgcolor":"black"
+    },
+    {
+        "p_name":"MyToDo",
+        "p_dt":"September,2022",
+        "p_desc":"It is simply a Diary of oneself for writing their important moments built using Bootstrap, PHP, MySQL",
+        "see":"https://goodimages.infinityfreeapp.com/",
+        "source":"https://github.com/Codessmasher/MyToDo",
+        "bgcolor":"blue"
+    },
+    {
+        "p_name":"Bird Shooter Game",
+        "p_dt":"April,2022",
+        "p_desc":"It is a simple bird shooter game built using javascript, HTML, CSS",
+        "see":"https://codessmasher.github.io/bird_game_js/fly.html",
+        "source":"https://github.com/Codessmasher/bird_game_js",
+        "bgcolor":"pink"
     }
-    
    
 ]
