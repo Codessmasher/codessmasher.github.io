@@ -13,6 +13,8 @@ import bootstrap from "../../images/bootstrap.webp"
 import se from "../../images/se.jpg"
 import nextjs from "../../images/nextjs.png"
 import github from "../../images/github.png"
+import tailwind from "../../images/tailwind.png"
+import postman from "../../images/postman.png"
 
 // css imported
 import "../Common.css"
@@ -36,16 +38,18 @@ function Home() {
         <ul className="skills flex_arnd m_stndrd">
           <li><img src={html} alt="html" />HTML</li>
           <li><img src={css} alt="css" />CSS</li>
+          <li><img src={tailwind} alt="tailwind" />TAILWIND</li>
+          <li><img src={bootstrap} alt="bootstrap" />BOOTSTRAP</li>
+          <li><img src={php} alt="php" />PHP</li>
+          <li><img src={mysql} alt="mysql" />MYSQL</li>
           <li><img src={javascript} alt="javascript" />JAVASCRIPT</li>
           <li><img src={mongodb} alt="mongodb" />MONGODB</li>
           <li><img src={express} alt="express" />EXPRESS</li>
           <li><img src={react} alt="react" />REACT</li>
           <li><img src={nodejs} alt="nodejs" />NODEJS</li>
-          <li><img src={bootstrap} alt="bootstrap" />BOOTSTRAP</li>
-          <li><img src={php} alt="php" />PHP</li>
-          <li><img src={mysql} alt="mysql" />MYSQL</li>
           <li><img src={nextjs} alt="nextjs" />NEXTJS</li>
           <li><img src={github} alt="github" />GITHUB</li>
+          <li><img src={postman} alt="postman" />POSTMAN</li>
         </ul>
       </div>
 
@@ -53,4 +57,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Home;
