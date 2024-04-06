@@ -8,6 +8,36 @@ function Blog() {
     return (
         <div className="Blogs ">
 
+            // <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
+            //     <h2></h2>
+            //     <p>...</p>
+            //     <a href="">Read More</a>
+            // </div> 
+            <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
+                <h2>Fruit Into Baskets |🔥 C++ | Sliding Window | Map | Easy explanation | Leetcode</h2>
+                <p>Intuition We will keep plucking one fruit while traversing from left to right and put it into one type of basket (map) between the two baskets....</p>
+                <a href="https://codesplash.medium.com/fruit-into-baskets-c-sliding-window-map-easy-explanation-leetcode-aed0c83c8d27?source=user_profile---------0----------------------------">Read More</a>
+            </div>
+            <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
+                <h2>JavaScript Working | Execution Context of JavaScript</h2>
+                <p>#1 Javascript Series Started Execution context “Everything in Javascript happens inside an execution context” It can be thought of as an environment where the Javascript code is evaluated and executed. Two...</p>
+                <a href="https://codesplash.medium.com/javascript-working-4f5bdf3ae9b7?source=user_profile---------1----------------------------">Read More</a>
+            </div>
+            <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
+                <h2>Understanding Semantic Versioning: A Guide to Version Numbers</h2>
+                <p>Semantic Versioning (Semver) is a widely adopted convention for versioning software packages. In the context of package.json files used in Node.js projects, version numbers are structured in a specific format, consisting of major, minor, and patch segments separated by dots (e.g., 1.2.3)...</p>
+                <a href="https://codesplash.medium.com/understanding-semantic-versioning-a-guide-to-version-numbers-5d15a463df2b?source=user_profile---------2----------------------------">Read More</a>
+            </div>
+            <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
+                <h2>Tilde(~) vs Caret(^) in package.json</h2>
+                <p>In package.json, the tilde (~) and caret (^) symbols are used to specify version ranges for dependencies. They control how flexible or strict the dependency resolution should be when installing or updating packages. Here’s what each symbol means: Tilde (~): It restricts the...</p>
+                <a href="https://codesplash.medium.com/tilde-vs-caret-in-package-json-130756808ce7?source=user_profile---------3----------------------------">Read More</a>
+            </div>
+            <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
+                <h2>Give Color to Your C++, Java or Python Code in Markdown File or Within Your GitHub.md File</h2>
+                <p>I was creating my code repo and for this I have used the .md extension. When I saw the dull white text, I thought how to color the C++ code like...</p>
+                <a href="https://codesplash.medium.com/give-color-to-your-c-java-or-python-code-in-markdown-file-or-within-your-github-md-file-1e373c50eced?source=user_profile---------4----------------------------">Read More</a>
+            </div>
             <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
                 <h2>Solution for not being able to copy PDF text because of encoded text</h2>
                 <p>I was Taking help from chatGPT studying with research paper but on a PDF when I copied the text it came like this “7XG0BVCRNJKHG6IUGIG6T7FFITFR” But I have solved it by implementing the following steps Go To ilovepdf Select PDF to Word Now Upload the encoded...</p>
