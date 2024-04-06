@@ -10,8 +10,10 @@ import nodejs from "../../images/nodejs.svg"
 import php from "../../images/php.png"
 import mysql from "../../images/mysql.png"
 import bootstrap from "../../images/bootstrap.webp"
-
 import se from "../../images/se.jpg"
+import nextjs from "../../images/nextjs.png"
+import github from "../../images/github.png"
+
 // css imported
 import "../Common.css"
 import "./Home.css"
@@ -42,6 +44,8 @@ function Home() {
           <li><img src={bootstrap} alt="bootstrap" />BOOTSTRAP</li>
           <li><img src={php} alt="php" />PHP</li>
           <li><img src={mysql} alt="mysql" />MYSQL</li>
+          <li><img src={nextjs} alt="nextjs" />NEXTJS</li>
+          <li><img src={github} alt="github" />GITHUB</li>
         </ul>
       </div>
 
