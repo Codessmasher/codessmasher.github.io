@@ -7,12 +7,7 @@ import "./Blog.css"
 function Blog() {
     return (
         <div className="Blogs ">
-
-            // <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
-            //     <h2></h2>
-            //     <p>...</p>
-            //     <a href="">Read More</a>
-            // </div> 
+ 
             <div className="Blog_box box_shdow m_stndrd prjc" style={{ boxSizing: "border-box" }}>
                 <h2>Fruit Into Baskets |🔥 C++ | Sliding Window | Map | Easy explanation | Leetcode</h2>
                 <p>Intuition We will keep plucking one fruit while traversing from left to right and put it into one type of basket (map) between the two baskets....</p>
