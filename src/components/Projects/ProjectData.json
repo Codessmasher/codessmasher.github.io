@@ -29,7 +29,7 @@
         "p_name":"Car Rental",
         "p_dt":"March,2024",
         "p_desc":"It is a Car renting website built using Bootstrap, PHP, MySQL",
-        "see":"http://carbaba.free.nf/cars.php",
+        "see":"http://carbaba.free.nf",
         "source":"https://github.com/Codessmasher/car_rental",
         "bgcolor":"blue"
     },
@@ -45,7 +45,7 @@
         "p_name":"Portfolio",
         "p_dt":"February,2023",
         "p_desc":"My Portfolio website built using React,firebase,fetch API",
-        "see":"https://portfolio-codessmasher.vercel.app",
+        "see":"https://portfolio-ebon-beta.vercel.app/",
         "source":"https://github.com/Codessmasher/portfolio",
         "bgcolor":"green"
     },
@@ -71,7 +71,7 @@
         "p_desc":"It is a simple bird shooter game built using javascript, HTML, CSS",
         "see":"https://codessmasher.github.io/bird_game_js/fly.html",
         "source":"https://github.com/Codessmasher/bird_game_js",
-        "bgcolor":"pink"
+        "bgcolor":"yellow"
     }
    
 ]
