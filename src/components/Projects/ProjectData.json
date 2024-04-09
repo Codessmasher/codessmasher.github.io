@@ -5,7 +5,7 @@
     "p_desc": "Nextjs Voting Management WebApp with Nodejs API",
     "see": "https://voting-wheat-six.vercel.app/",
     "source": "https://github.com/Codessmasher/votenextjs",
-    "bgcolor": "black"
+    "bgcolor": "teal"
   },
     {
         "p_name":"BookMyPG",
@@ -31,7 +31,7 @@
         "p_desc":"It is a Car renting website built using Bootstrap, PHP, MySQL",
         "see":"http://carbaba.free.nf",
         "source":"https://github.com/Codessmasher/car_rental",
-        "bgcolor":"blue"
+        "bgcolor":"indigo"
     },
     {
         "p_name":"BlockShield",
@@ -71,7 +71,7 @@
         "p_desc":"It is a simple bird shooter game built using javascript, HTML, CSS",
         "see":"https://codessmasher.github.io/bird_game_js/fly.html",
         "source":"https://github.com/Codessmasher/bird_game_js",
-        "bgcolor":"teal"
+        "bgcolor":"olive"
     }
    
 ]
