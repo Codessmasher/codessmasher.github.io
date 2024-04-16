@@ -1,16 +1,25 @@
 [
     {
     "p_name": "Voting WebApp",
-    "p_dt": "March,2024",
-    "p_desc": "Nextjs Voting Management WebApp with Nodejs API",
+    "p_dt": "April,2024",
+    "p_desc": "Nextjs Voting Management WebApp with Nodejs API. Added Security features include jsonwebtoken authentication and bcryptjs for password encryption/decryption.",
     "see": "https://voting-wheat-six.vercel.app/",
     "source": "https://github.com/Codessmasher/votenextjs",
     "bgcolor": "teal"
   },
     {
+        "p_name":"E-Commerce Cart",
+        "p_dt":"April,2024",
+        "p_desc":"This is an E-Commerce cart System developed using Redux Toolkit and Nextjs with fake products API. I have incorporated a custom polyfill debounce for efficient product search functionality",
+        "see":"https://cart-beta-nine.vercel.app/",
+        "source":"https://github.com/Codessmasher/cart",
+        "bgcolor":"green"
+
+    }, 
+    {
         "p_name":"BookMyPG",
         "p_dt":"November,2022",
-        "p_desc":"It is simply a PG booking website built using Bootstrap,PHP,MySQL",
+        "p_desc":"It is simply a PG booking website built using Bootstrap,PHP,MySQL. Users can search, bookmark, and book PG accommodations in four cities.",
         "see":"http://bookmypg.lovestoblog.com/",
         "source":"https://github.com/Codessmasher/BookMyPG",
         "bgcolor":"orange"
@@ -36,8 +45,8 @@
     {
         "p_name":"BlockShield",
         "p_dt":"October,2023",
-        "p_desc":"It is a chrome extension for youtube ad closing",
-        "see":"https://voting-wheat-six.vercel.app/",
+        "p_desc":"It is a chrome extension. It is for youtube ad closing.",
+        "see":"#",
         "source":"https://github.com/Codessmasher/votenextjs",
         "bgcolor":"red"
     },
