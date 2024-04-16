@@ -12,6 +12,7 @@ import mysql from "../../images/mysql.png"
 import bootstrap from "../../images/bootstrap.webp"
 import se from "../../images/se.jpg"
 import nextjs from "../../images/nextjs.png"
+import redxutoolkit from "../../images/redxutoolkit.jpg"
 import github from "../../images/github.png"
 import tailwind from "../../images/tailwind.png"
 import postman from "../../images/postman.png"
@@ -50,6 +51,7 @@ function Home() {
           <li><img src={nextjs} alt="nextjs" />NEXTJS</li>
           <li><img src={github} alt="github" />GITHUB</li>
           <li><img src={postman} alt="postman" />POSTMAN</li>
+          <li><img src={redxutoolkit} alt="redxutoolkit" />REDUX TOOLKIT</li>
         </ul>
       </div>
 
